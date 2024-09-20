@@ -1,10 +1,16 @@
 ---
 layout: post
-title:  "Welcome to zzzz!"
-date:   2024-09-20 10:35:57 +0900
-categories: jekyll update
+title:  "나의 첫번째 포스트!"
+date:   2024-09-13 10:35:57 +0900
+categories: blog first
+tags: [a,b,c]
+pin: true
+image:
+  path: /commons/devices-mockup.png
+  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+첫번째 포스트입니다.첫번째 포스트입니다.첫번째 포스트입니다.첫번째 포스트입니다.첫번째 포스트입니다.첫번째 포스트입니다.
 
 Jekyll requires blog post files to be named according to the following format:
 
