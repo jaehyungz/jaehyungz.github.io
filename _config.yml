@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: jaehyungz # the main title
 
-tagline: 그냥만든블로그 # it will display as the subtitle
+tagline: 끄적이는 블로그 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
